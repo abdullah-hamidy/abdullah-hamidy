@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**🐱 My GitHub Data** 
+
+> 📜 30 Public Repositories 
+ > 
+> 🔑 55 Private Repositories 
+ > 
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-hamidy&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 
  <a href="https://github-readme-stats.vercel.app">
