@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 > 🔑 55 Private Repositories 
  > 
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-hamidy&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 
  <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=abdullah-hamidy&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
