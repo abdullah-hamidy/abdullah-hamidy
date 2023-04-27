@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 > 📜 30 Public Repositories 
  > 
-> 🔑 55 Private Repositories 
+> 🔑 57 Private Repositories 
  > 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-hamidy&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
